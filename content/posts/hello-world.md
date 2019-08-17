@@ -1,9 +1,9 @@
 ---
 template: SinglePost
-title: Red
+title: Le Chameau
 status: Featured / Published
 date: '2018-03-27'
-featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
+featuredImage: 'https://ucarecdn.com/ec36796f-7e4c-4856-bce8-24da02f239b4/'
 excerpt: >-
   Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
   interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
