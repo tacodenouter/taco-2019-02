@@ -4,7 +4,7 @@ slug: ''
 title: Yellowcake
 featuredImage: 'https://ucarecdn.com/895d4c8e-d496-4d18-89ff-b5b25c879f84/'
 subtitle: >-
-  I am a DIgital Product Designer. I help businesses large and small build
+  I am a Digital Product Designer. I help businesses large and small build
   better brands & products, forging a greater connection with their user.
 meta:
   description: This is a meta description.
