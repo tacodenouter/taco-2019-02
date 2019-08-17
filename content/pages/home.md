@@ -1,9 +1,11 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: Purposeful prototyping
 featuredImage: 'https://ucarecdn.com/895d4c8e-d496-4d18-89ff-b5b25c879f84/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: >-
+  I am a Digital Product Designer. I help businesses large and small build
+  better brands & products, forging a greater connection with their user.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
