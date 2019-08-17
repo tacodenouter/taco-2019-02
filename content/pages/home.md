@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: Purposeful prototyping
 featuredImage: 'https://ucarecdn.com/895d4c8e-d496-4d18-89ff-b5b25c879f84/'
 subtitle: >-
   I am a Digital Product Designer. I help businesses large and small build
