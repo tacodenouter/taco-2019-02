@@ -1,10 +1,10 @@
 ---
 template: BlogIndex
 title: Web
-subtitle: ''
+subtitle: Websites
 featuredImage: ''
 meta:
-  description: ''
+  description: Web projects
   title: Web
 ---
 
