@@ -9,4 +9,4 @@ meta:
 ---
 ## About me
 
-I'm been designing digital products for a bunch of startups in London like SpeechKit, Dash, Kindeo, #Pay and Dave's Lab and estabslished brands like BBC Good Food, National Trust, Mr Porter,
+I'm been designing digital products for a bunch of startups in London like SpeechKit, Dash, Kindeo, #Pay and Dave's Lab and estabslished brands like BBC Good Food, National Trust, Mr Porter.
