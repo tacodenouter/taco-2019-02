@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Purposeful prototyping
-featuredImage: 'https://ucarecdn.com/d8d792dd-fb08-419c-93bc-13b0bc94efcc/'
+featuredImage: 'https://ucarecdn.com/702b3cf2-fc6f-4525-8770-63d5de1e5ca3/'
 subtitle: >-
   Build a greater connection with your customer through thoughtful design and
   user experiences
