@@ -52,7 +52,6 @@ export class Navigation extends Component {
             <NavLink to="/components/">Components</NavLink>
             <NavLink to="/blog/">Case studies</NavLink>
             <NavLink to="/default/">Default</NavLink>
-            <NavLink to="/about/">About</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
           </div>
           <button
