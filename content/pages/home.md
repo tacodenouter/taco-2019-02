@@ -28,3 +28,9 @@ The conversational UI of the BBC Good Food Alexa skill, which allows users to fo
 ## The future of automotion
 
 With Fitch Hong Kong I lead the UX and UI design of challenger brand Bordrin, carving its space in the increasingly crowded Chinese Electric Vehicle landscape.
+
+![]()
+
+## Telling the stories that matter
+
+With family storytelling startup Kindeo I redesigned the iPad app’s navigation and sharing site, as well as designing new features including text and photo input.
