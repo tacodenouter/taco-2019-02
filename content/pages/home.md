@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Purposeful prototyping
-featuredImage: 'https://ucarecdn.com/895d4c8e-d496-4d18-89ff-b5b25c879f84/'
+featuredImage: 'https://ucarecdn.com/d8d792dd-fb08-419c-93bc-13b0bc94efcc/'
 subtitle: >-
   I am a Digital Product Designer. I help businesses large and small build
   better brands & products, forging a greater connection with their user.
