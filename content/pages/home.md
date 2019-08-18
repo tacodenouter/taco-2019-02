@@ -22,3 +22,11 @@ I am a Digital Design Director with experience leading the best teams in London 
 ## Hands-free cooking
 
 The conversational UI of the BBC Good Food Alexa skill, which allows users to follow recipes distraction-free.
+
+
+
+![Bordrin Electric Vehicles](https://ucarecdn.com/e61f6b9b-7d5e-4932-b504-2b63e5cc8704/ "Bordrin Electric Vehicles")
+
+## The future of automotion
+
+With Fitch Hong Kong I lead the UX and UI design of challenger brand Bordrin, carving its space in the increasingly crowded Chinese Electric Vehicle landscape.
