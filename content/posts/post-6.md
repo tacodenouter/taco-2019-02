@@ -3,7 +3,7 @@ template: SinglePost
 title: Kindeo
 status: Published
 date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/bd5d1edc-73be-488a-9d50-8ec28f5ab6a9/'
+featuredImage: 'https://ucarecdn.com/437acf62-6451-4b66-8a8c-df369f040861/'
 excerpt: >-
   This is placeholder text that our web designers put here to make sure words
   appear properly on your website. This text is going to be replaced once the
