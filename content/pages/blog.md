@@ -1,10 +1,11 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
+title: Case Studies
 featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+subtitle: Some projects I have worked on in the past few years.
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: Some work by Taco den Outer
+  title: Taco den Outer Case Studies
 ---
+
