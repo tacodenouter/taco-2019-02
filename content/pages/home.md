@@ -17,25 +17,17 @@ meta:
 
 I am a Digital Design Lead with experience ellevating the best teams in London and Hong Kong. Putting my clients' users first allows me to have a clear vision, informed by business goals and brand values.
 
-![BBC Good Food Alexa Skill](https://ucarecdn.com/264dfbea-6d27-46c3-8ae9-17d33975d7b0/ "BBC Good Food Alexa Skill")
-
 ## Hands-free cooking
 
-The conversational UI of the BBC Good Food Alexa skill, which allows users to follow recipes distraction-free.
-
-![Bordrin Electric Vehicles](https://ucarecdn.com/e61f6b9b-7d5e-4932-b504-2b63e5cc8704/ "Bordrin Electric Vehicles")
+The conversational UI of the [BBC Good Food Alexa skill](/bbc-good-food), which allows users to follow recipes distraction-free.
 
 ## The future of automotion
 
 With Fitch Hong Kong I lead the UX and UI design of challenger brand Bordrin, carving its space in the increasingly crowded Chinese Electric Vehicle landscape.
 
-![]()
-
 ## Telling the stories that matter
 
 With family storytelling startup Kindeo I redesigned the iPad app’s navigation and sharing site, as well as designing new features including text and photo input.
-
-
 
 ## Frictionless payment
 
