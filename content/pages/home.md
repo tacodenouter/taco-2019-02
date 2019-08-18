@@ -13,22 +13,10 @@ meta:
     design and user experiences.
   title: Taco den Outer Digital Product Designer
 ---
-## As you might have guessed, I believe in rapid prototyping. The sooner we get something that (almost) behaves and functions like the real thing, the better.
+## The sooner we get something that behaves and functions like the real thing, the better.
+
+I create high fidelity prototypes of websites and apps. If you simply want to test a particular feature or if you want the complete package, including branding, illustration, world-class typography and user-friendly UX, I help out with testable, validated designs.
 
 I am a Digital Design Lead with experience ellevating the best teams in London and Hong Kong. Putting my clients' users first allows me to have a clear vision, informed by business goals and brand values.
 
-## Hands-free cooking
-
-The conversational UI of the [BBC Good Food Alexa skill](/bbc-good-food), which allows users to follow recipes distraction-free.
-
-## The future of automotion
-
-With Fitch Hong Kong I lead the UX and UI design of challenger brand Bordrin, carving its space in the increasingly crowded Chinese Electric Vehicle landscape.
-
-## Telling the stories that matter
-
-With family storytelling startup Kindeo I redesigned the iPad app’s navigation and sharing site, as well as designing new features including text and photo input.
-
-## Frictionless payment
-
-With a few friends I set up #PAY, a frictionless payment service that integrates with Twitter. Users can set up an account and donate to their favourite charities with a tweet.
+##
