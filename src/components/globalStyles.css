@@ -1,18 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Lexend+Mega&display=swap');
+
 @font-face {font-family: 'Fabrikat-Regular';src: url('../assets/fonts/315D63_0_0.eot');src: url('../assets/fonts/315D63_0_0.eot?#iefix') format('embedded-opentype'),url('../assets/fonts/315D63_0_0.woff2') format('woff2'),url('../assets/fonts/315D63_0_0.woff') format('woff'),url('../assets/fonts/315D63_0_0.ttf') format('truetype');}
+
+@font-face {font-family: 'Gopher-Medium';src: url('../assets/fonts/39F4B2_0_0.eot');src: url('../assets/fonts/39F4B2_0_0.eot?#iefix') format('embedded-opentype'),url('../assets/fonts/39F4B2_0_0.woff2') format('woff2'),url('../assets/fonts/39F4B2_0_0.woff') format('woff'),url('../assets/fonts/39F4B2_0_0.ttf') format('truetype');}
+
+@font-face {font-family: 'NeumaticCompressed-Bold';src: url('../assets/fonts/39F4B2_1_0.eot');src: url('../assets/fonts/39F4B2_1_0.eot?#iefix') format('embedded-opentype'),url('../assets/fonts/39F4B2_1_0.woff2') format('woff2'),url('../assets/fonts/39F4B2_1_0.woff') format('woff'),url('../assets/fonts/39F4B2_1_0.ttf') format('truetype');}
+
 
 
 :root {
-  --primary: #139cdb;
+  --primary: #2b00ff;
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #e6e7ea;
   --darkGrey: #272727;
   --danger: #ff3d3d;
-  --font-primary: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  --font-system: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --font-primary: 'Fabrikat-Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --font-system: 'Fabrikat-Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   --font-fabrikat: 'Fabrikat-Regular', sans-serif;
   --font-header: 'Lexend Mega', sans-serif;
+  --font-header-2: 'Gopher-Medium', sans-serif;
+  --font-page-header: 'NeumaticCompressed-Bold', sans-serif;
   --borderRadius: 3px;
   --letter-spacing: .15em;
 }
@@ -44,9 +52,8 @@ body {
   font-family: var(--font-system);
   min-height: 100%;
   position: relative;
-  background: white;
   color: var(--secondary);
-  font-size: 1.7em;
+  font-size: 1.9em;
   font-weight: 400;
   letter-spacing: 0.01em;
   line-height: 1.6;
@@ -55,6 +62,8 @@ body {
 
 a {
   color: var(--primary);
+  text-decoration: none;
+  font-weight: normal;
 }
 
 strong {
@@ -66,18 +75,29 @@ p {
   margin-bottom: 1em;
 }
 
-h1,
-h2,
+h1 {
+  margin: 0 0 0.5em 0;
+  font-family: var(--font-header-2);
+  font-size: 3em;
+  line-height: 1em;
+  padding: 0;
+}
+
+h2 {
+  margin: 1em 0 0.5em 0;
+  font-family: var(--font-header-2);
+  line-height: 1em;
+  padding: 0;
+}
+
 h3,
 h4,
 h5,
 h6 {
   margin: 0;
-  margin-bottom: 0.5em;
-  font-family: var(--font-header);
-  text-transform: uppercase;
+  font-family: var(--font-header-2);
   line-height: 1em;
-  padding-bottom: .4em;
+  padding: 1em 0 .3em 0;
 }
 
 pre {
@@ -167,7 +187,7 @@ blockquote {
   width: 100%;
   padding: 5rem 0;
   border-bottom: 1px solid #f1f1f1;
-  background: var(--midGrey)
+  background: var(--lightGrey)
 }
 .section:last-child {
   border: 0;
