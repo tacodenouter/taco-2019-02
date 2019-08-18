@@ -3,7 +3,7 @@ template: SinglePost
 title: BBC Good Food
 status: Published
 date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/0acad1a2-c21b-4cc6-a4ba-7da043bef884/'
+featuredImage: 'https://ucarecdn.com/517f4dc3-7e73-47fa-8e5c-4af6bda1e913/'
 excerpt: >-
   The conversational UI of the BBC Good Food Alexa skill, which allows users to
   follow recipes distraction-free.
