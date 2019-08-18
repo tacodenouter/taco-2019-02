@@ -3,7 +3,7 @@ template: SinglePost
 title: Groupvest
 status: Featured / Published
 date: '2018-03-27'
-featuredImage: 'https://ucarecdn.com/157877ea-a2cb-49b6-8130-768fbe1a60a7/'
+featuredImage: 'https://ucarecdn.com/1f2fe6e8-324d-4a98-8029-efa7bc2cc375/'
 excerpt: >-
   Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
   interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus

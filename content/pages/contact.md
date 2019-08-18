@@ -3,12 +3,7 @@ template: ContactPage
 slug: contact
 title: Reach out
 featuredImage: 'https://ucarecdn.com/82b498be-81bc-458e-8f8b-3bd6c5591620/'
-subtitle: >-
-  Let’s talk if you have an interesting idea for a new service, want help
-  connecting better with your customers or want to increase your users. 
-
-
-  Great design can come a long way.
+subtitle: ...
 address: '404 James St, Burleigh Heads QLD 4220'
 phone: +852 5348 6036
 email: tacodntr@gmail.com
@@ -20,7 +15,11 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
-# Contact
+# Let's talk...
+
+...if you have an interesting idea for a new service, want help connecting better with your customers or want to increase your users. 
+
+Great design can come a long way.
 
 This form is setup to use Netlify's form handling:
 

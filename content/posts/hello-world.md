@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Le Chameau
-status: Featured / Published
+status: Published
 date: '2018-03-27'
 featuredImage: 'https://ucarecdn.com/ec36796f-7e4c-4856-bce8-24da02f239b4/'
 excerpt: >-
@@ -10,7 +10,7 @@ excerpt: >-
   est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
   pellentesque, lacinia risus ut, imperdiet eros.
 categories:
-  - category: News
+  - category: Web
 meta:
   canonicalLink: ''
   description: test meta description
