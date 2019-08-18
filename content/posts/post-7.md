@@ -1,22 +1,18 @@
 ---
 template: SinglePost
 title: Olay
-status: Featured / Published
-date: '2018-03-27'
+status: Published
+date: 2019-04-30T16:00:00.000Z
 featuredImage: >-
   https://ucarecdn.com/f540281a-41cf-4bfa-8181-b172e2655fba/-/crop/1632x1777/0,672/-/preview/
-excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+excerpt: For Fitch Hong Kong I designed a beauty app targeted to Chinese teens.
 categories:
-  - category: News
+  - category: App
 meta:
   canonicalLink: ''
-  description: test meta description
+  description: 'Augmented reality app for Olay, through Fitch Hong Kong'
   noindex: false
-  title: test meta title
+  title: Olay
 ---
 Paragraphs are separated by a blank line.
 
