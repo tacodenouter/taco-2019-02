@@ -4,29 +4,15 @@ slug: ''
 title: Purposeful prototyping
 featuredImage: 'https://ucarecdn.com/d8d792dd-fb08-419c-93bc-13b0bc94efcc/'
 subtitle: >-
-  I am a Digital Product Designer. I help businesses large and small build
-  better brands & products, forging a greater connection with their user.
+  Build a greater connection with your customer through thoughtful design and
+  user experiences
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: >-
+    Taco den Outer is a Digital Product Designer. Build better brands &
+    products, forging a greater connection with your user through thoughtful
+    design and user experiences.
+  title: Taco den Outer Digital Product Designer
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+## As you might have guessed, I believe in rapid prototyping. The sooner we get something that (almost) behaves and functions like the real thing, the better.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
-
-# Features
-
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+I am a Digital Design Director with experience leading the best teams in London and Hong Kong. I try to get the best out of the people I work with in order to deliver the best products for my clients.
