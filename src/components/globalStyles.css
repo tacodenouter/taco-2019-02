@@ -1,13 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend+Mega&display=swap');
+@font-face {font-family: 'Fabrikat-Regular';src: url('../assets/fonts/315D63_0_0.eot');src: url('../assets/fonts/315D63_0_0.eot?#iefix') format('embedded-opentype'),url('../assets/fonts/315D63_0_0.woff2') format('woff2'),url('../assets/fonts/315D63_0_0.woff') format('woff'),url('../assets/fonts/315D63_0_0.ttf') format('truetype');}
+
+
 :root {
-  --primary: #00c2bd;
+  --primary: #139cdb;
   --secondary: #000;
   --lightGrey: whitesmoke;
-  --midGrey: #cacaca;
+  --midGrey: #e6e7ea;
   --darkGrey: #272727;
   --danger: #ff3d3d;
-  --font-primary: 'Open Sans', sans-serif;
-  --font-system: system-ui; /* postcssPresetEnv */
+  --font-primary: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --font-system: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --font-fabrikat: 'Fabrikat-Regular', sans-serif;
+  --font-header: 'Lexend Mega', sans-serif;
   --borderRadius: 3px;
+  --letter-spacing: .15em;
 }
 
 ::-webkit-scrollbar {
@@ -39,7 +46,7 @@ body {
   position: relative;
   background: white;
   color: var(--secondary);
-  font-size: 1.6em;
+  font-size: 1.7em;
   font-weight: 400;
   letter-spacing: 0.01em;
   line-height: 1.6;
@@ -67,6 +74,10 @@ h5,
 h6 {
   margin: 0;
   margin-bottom: 0.5em;
+  font-family: var(--font-header);
+  text-transform: uppercase;
+  line-height: 1em;
+  padding-bottom: .4em;
 }
 
 pre {
@@ -156,6 +167,7 @@ blockquote {
   width: 100%;
   padding: 5rem 0;
   border-bottom: 1px solid #f1f1f1;
+  background: var(--midGrey)
 }
 .section:last-child {
   border: 0;

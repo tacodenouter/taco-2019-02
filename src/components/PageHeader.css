@@ -2,10 +2,11 @@
   background-color: var(--darkGrey);
   color: white;
   padding: 15rem 0;
+  text-align: center;
 }
 
 .PageHeader .BackgroundImage {
-  opacity: 0.8;
+  opacity: 1;
 }
 
 .PageHeader-large {
@@ -13,13 +14,14 @@
 }
 
 .PageHeader--Title {
-  font-size: 6rem;
+  font-size: 10rem;
   margin-bottom: 0;
 }
 
 .PageHeader--Subtitle {
   font-weight: 400;
   font-size: 1.8rem;
+  padding: 0 8rem;
 }
 
 .PageHeader .container {
@@ -30,7 +32,15 @@
   .PageHeader {
     padding: 7rem 0;
   }
+  .PageHeader--Title {
+    font-size: 3rem;
+  }
+
   .PageHeader-large {
     padding: 12.5rem 0;
+  }
+
+  .PageHeader--Subtitle {
+    padding: 0;
   }
 }

@@ -48,11 +48,11 @@ export const ContactPageTemplate = ({
                 <Smartphone /> {phone}
               </a>
             )}
-            {email && (
+            {/* {email && (
               <a className="Contact--Details--Item" href={`mailto:${email}`}>
                 <Mail /> {email}
               </a>
-            )}
+            )} */}
           </div>
         </div>
 
@@ -62,7 +62,7 @@ export const ContactPageTemplate = ({
       </div>
     </section>
 
-    <GoogleMap locations={locations} />
+    {/* <GoogleMap locations={locations} /> */}
   </main>
 )
 
