@@ -8,8 +8,8 @@ excerpt: >-
   The conversational UI of the BBC Good Food Alexa skill, which allows users to
   follow recipes distraction-free.
 meta:
-  description: test meta description
-  title: test meta title
+  description: BBC Good Food Alexa Skill for Hi Mum! Said Dad
+  title: BBC Good Food Alexa Skill
 ---
 # No more salsa-stained, garlic-smelling recipe books
 
