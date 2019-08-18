@@ -19,6 +19,6 @@ I am a Digital Design Director with experience leading the best teams in London 
 
 ![BBC Good Food Alexa Skill](https://ucarecdn.com/264dfbea-6d27-46c3-8ae9-17d33975d7b0/ "BBC Good Food Alexa Skill")
 
-## Habds-free cooking
+## Hands-free cooking
 
 The conversational UI of the BBC Good Food Alexa skill, which allows users to follow recipes distraction-free.
