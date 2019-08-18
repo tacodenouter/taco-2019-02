@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Swiming
+title: Zandaka
 status: Published
 date: '2018-05-25'
 featuredImage: >-
