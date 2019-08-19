@@ -1,15 +1,20 @@
 ---
 template: DefaultPage
-slug: About
-title: About
+slug: CV
+title: CV
 featuredImage: 'https://ucarecdn.com/78e3214a-0e5e-41ae-9e51-b456c6c469d6/'
 meta:
   description: test meta description
   title: test meta title
 ---
+## Fitch
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
+Fitch is the world's leading branding and retail design studio with offices across the world.
 
-Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website. This paragraph has been copied from a program that automatically generates paragraphs like this.
+I lead the design team, covering all UI and UX design output. Together we create some of Hong Kong's best digital work for the region's most forward thinking clients in the retail and member's club space.
 
-**It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.**
+## Hi Mum! Said Dad
+
+Hi Mum! Said Dad is a full service digital agency focusing on designing and developing iOS and Android apps, but extending to CRM and payment platforms. Clients include The National Trust, Good Energy, Carling and a number of smaller businesses and startups.
+
+I managed a team of talented designers, covering all visual and UX design output and I worked closely with strategy and development teams, generating new business and maintaining relationships with existing clients.
