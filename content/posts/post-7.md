@@ -3,8 +3,7 @@ template: SinglePost
 title: Olay
 status: Published
 date: 2019-04-30T16:00:00.000Z
-featuredImage: >-
-  https://ucarecdn.com/f540281a-41cf-4bfa-8181-b172e2655fba/-/crop/1632x1777/0,672/-/preview/
+featuredImage: 'https://ucarecdn.com/44b9f6c2-2264-45ce-bf91-2db371d55430/'
 excerpt: For Fitch Hong Kong I designed a beauty app targeted to Chinese teens.
 categories:
   - category: App
