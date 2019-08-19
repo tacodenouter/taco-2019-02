@@ -24,6 +24,8 @@ The below is a prototype that showcases a typical journey, from onboarding to ac
 
 <iframe width="375" height="812" src="https://fitch-olay-genie-201906-1.netlify.com/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Illustration for this prototype were taken from the public Dribbble account of the very talented [Cindy Suen](https://dribbble.com/cindysuen) ← Definitely hire her, she makes awesome animations!
+
 ### Olay Genie for Fitch
 
 * Onboarding
