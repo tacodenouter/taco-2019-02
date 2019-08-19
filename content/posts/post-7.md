@@ -7,6 +7,7 @@ featuredImage: 'https://ucarecdn.com/44b9f6c2-2264-45ce-bf91-2db371d55430/'
 excerpt: For Fitch Hong Kong I designed a beauty app targeted to Chinese teens.
 categories:
   - category: App
+  - category: Web
 meta:
   canonicalLink: ''
   description: 'Augmented reality app for Olay, through Fitch Hong Kong'
@@ -15,7 +16,7 @@ meta:
 ---
 World-renowned beauty brand Olay asked us to come up with a tool that showcases their proprietary skin-care algorithm and would appeal to high-demanding, digitally savvy Chinese teens.
 
-We designed an app that analyzes their user's unique skin to their geo-location, informing them what they need according to their circomstances.
+We designed an Augmented Reality app that analyzes their user's unique skin to their geo-location, informing them what they need according to their circomstances.
 
 If they are travelling Olay would be able to recommend the perfect product to alleviate dry air, and if they had had a big night out, the app is able to propose a regimen that alleviates the damage done.
 
@@ -25,8 +26,9 @@ The below is a prototype that showcases a typical journey, from onboarding to ac
 
 Illustration for this prototype were taken from the public Dribbble account of the very talented [Cindy Suen](https://dribbble.com/cindysuen) ← Definitely hire her, she makes awesome animations!
 
-### Olay Genie for Fitch
+### Olay Genie design features
 
+* iOS, Android and Huawei
 * Onboarding
 * Personalised data
 * Unique, personal avatar
