@@ -14,41 +14,23 @@ meta:
   noindex: false
   title: Olay
 ---
-Paragraphs are separated by a blank line.
+World-renowned beauty brand Olay asked us to come up with a tool that showcases their proprietary skin-care algorithm and would appeal to high-demanding, digitally savvy Chinese teens.
 
-![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
+We designed an app that analyzes their user's unique skin to their geo-location, informing them what they need according to their circomstances.
+
+If they are travelling Olay would be able to recommend the perfect product to alleviate dry air, and if they had had a big night out, the app is able to propose a regimen that alleviates the damage done.
+
+The below is a prototype that showcases a typical journey, from onboarding to action.
 
 <iframe width="375" height="812" src="https://fitch-olay-genie-201906-1.netlify.com/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+### Olay Genie for Fitch
 
-### Unordered lists:
+* Onboarding
+* Personalised data
+* Unique, personal avatar
+* Geo-data
+* Product recommendation
+* Building up of user skin profile
 
-* this one
-* that one
-* the other one
-
-### Ordered lists:
-
-1. first item
-2. second item
-3. third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-## Heading 2
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+> It gives me a much better idea of what my skin needs
