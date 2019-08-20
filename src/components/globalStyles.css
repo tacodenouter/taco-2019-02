@@ -7,6 +7,9 @@
 @font-face {font-family: 'NeumaticCompressed-Bold';src: url('../assets/fonts/39F4B2_1_0.eot');src: url('../assets/fonts/39F4B2_1_0.eot?#iefix') format('embedded-opentype'),url('../assets/fonts/39F4B2_1_0.woff2') format('woff2'),url('../assets/fonts/39F4B2_1_0.woff') format('woff'),url('../assets/fonts/39F4B2_1_0.ttf') format('truetype');}
 
 
+@font-face {font-family: 'Recoleta-RegularDEMO';src: url('../assets/fonts/39F5DC_0_0.eot');src: url('../assets/fonts/39F5DC_0_0.eot?#iefix') format('embedded-opentype'),url('../assets/fonts/39F5DC_0_0.woff2') format('woff2'),url('../assets/fonts/39F5DC_0_0.woff') format('woff'),url('../assets/fonts/39F5DC_0_0.ttf') format('truetype');}
+
+
 
 :root {
   --primary: #2b00ff;
@@ -21,6 +24,7 @@
   --font-header: 'Lexend Mega', sans-serif;
   --font-header-2: 'Gopher-Medium', sans-serif;
   --font-page-header: 'NeumaticCompressed-Bold', sans-serif;
+  --font-quote: 'Recoleta-RegularDEMO', serif;
   --borderRadius: 3px;
   --letter-spacing: .15em;
 }
@@ -85,9 +89,12 @@ h1 {
 
 h2 {
   margin: 1em 0 0.5em 0;
-  font-family: var(--font-header-2);
+  font-family: var(--font-quote);
+  font-weight: normal;
   line-height: 1.4em;
-  padding: 0;
+  margin: 0 0 5rem 0;
+  border-bottom: 2px solid var(--primary);
+  padding-bottom: 3rem;
 }
 
 h3,
@@ -127,12 +134,12 @@ pre code:after {
   display: none;
 }
 blockquote {
+  font-family: var(--font-quote);
   margin-left: 0;
   padding-left: 1em;
-  line-height: 1.1;
-  font-size: 1em;
-  font-style: italic;
-  border-left: 2px solid var(--primary);
+  line-height: 1;
+  font-size: 2.5em;
+  border-left: 7px solid var(--primary);
 }
 
 /* Utility Classes */
