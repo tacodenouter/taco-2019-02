@@ -2,6 +2,10 @@
   background: var(--midGrey);
 }
 
+.SinglePost p {
+  margin-right: 20%;
+}
+
 .SinglePost--BackButton {
   color: white;
   position: relative;
@@ -32,6 +36,12 @@
 @media screen and (max-width: 750px) {
   .SinglePost--Content {
     padding: 4rem 2rem;
+  }
+  .SinglePost h2 {
+    font-size: 2.1em;
+  }
+  .SinglePost p {
+    margin-right: 0;
   }
 }
 
