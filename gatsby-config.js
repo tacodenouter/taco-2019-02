@@ -2,8 +2,8 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Yelloecake',
-    siteUrl: 'https://yellowcake.netlify.com'
+    title: 'Taco den Outer',
+    siteUrl: 'https://www.tacodenouter.com'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
