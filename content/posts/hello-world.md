@@ -4,54 +4,25 @@ title: Le Chameau
 status: Published
 date: '2018-03-27'
 featuredImage: 'https://ucarecdn.com/ec36796f-7e4c-4856-bce8-24da02f239b4/'
-excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+excerpt: >
+  Le Chameau makes boots for people who live and breathe the land. They’ve been
+  hand making rubber boots since 1927 in the same factory in Normandy, France.
+  With Dave’s Lab I designed their e-commerce site and worked on the company’s
+  branding.
 categories:
   - category: Web
 meta:
   canonicalLink: ''
-  description: test meta description
+  description: Le Chameau is a premium French boot maker
   noindex: false
-  title: test meta title
+  title: Le Chameau
 ---
-Paragraphs are separated by a blank line.
+# Craftsmanship & creativity
 
 ![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Le Chameau makes boots for people who live and breathe the land. They’ve been hand making rubber boots since 1927 in the same factory in Normandy, France. With Dave’s Lab I designed their e-commerce site and worked on the company’s branding.
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+Le Chameau’s boots have an understated luxury to them and are worn by people who love what they do. So it only made sense to treat the website with the same attention to detail and love of life.
 
-### Unordered lists:
-
-* this one
-* that one
-* the other one
-
-### Ordered lists:
-
-1. first item
-2. second item
-3. third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-## Heading 2
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+Here’s a high level overview of Le Chameau’s e-commerce site covering in-depth pages of their product lines categorised per purpose, company history and philosophy.
