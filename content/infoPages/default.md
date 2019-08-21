@@ -13,12 +13,11 @@ meta:
 ---
 I've been designing digital products for a bunch of startups, medium-sized companies and much larger enterprises.
 
-* Bordrin
-* SpeechKit
-* Kindeo
-* Dash
+* [Bordrin](https://www.bordrin.com)
+* [SpeechKit](https://speechkit.io/)
+* [Kindeo](https://www.kindeo.com/)
+* Dash Audio
 * \#Pay
-* Dave's Lab
-* BBC Good Food
-* National Trust
-* Mr Porter
+* [BBC Good Food](https://www.bbcgoodfood.com/howto/guide/how-use-bbc-good-food-alexa-skill)
+* [National Trust](https://www.nationaltrust.org.uk/)
+* [Mr Porter](https://www.mrporter.com)
