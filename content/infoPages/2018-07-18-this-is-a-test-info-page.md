@@ -7,10 +7,14 @@ meta:
   description: test meta description
   title: test meta title
 ---
+## Chengbao
+With Chengbao I'm working with the industry's finest digital designers to create a global platform of ground-breaking software.
+
+
 ## Fitch
 Fitch is the world's leading branding and retail design studio with offices across the world.
 
-I lead the design team, covering all UI and UX design output. Together we create some of Hong Kong's best digital work for the region's most forward thinking clients in the retail and member's club space.
+I led the design team, covering all UI and UX design output for their digital clients. Together we create some of Hong Kong's best digital work for the region's most forward thinking clients in the retail and member's club space.
 
 ## Hi Mum! Said Dad
 Hi Mum! Said Dad is a full service digital agency focusing on designing and developing iOS and Android apps, but extending to CRM and payment platforms. Clients include The National Trust, Good Energy, Carling and a number of smaller businesses and startups.
