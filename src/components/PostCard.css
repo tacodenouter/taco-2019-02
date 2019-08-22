@@ -1,6 +1,6 @@
 .PostCard {
   text-decoration: none;
-  background: white;
+  background: rgba(255,255,255,.5);
   color: inherit;
   border-radius: 12px;
   transition: all 0.15s ease-in-out;
@@ -9,6 +9,7 @@
 
 .PostCard:hover,
 .PostCard:focus {
+  background: white;
   transform: translateY(-2px);
   box-shadow: 0 2px 30px rgba(0, 0, 0, 0.15);
 }
@@ -20,6 +21,8 @@
 }
 
 .PostCard--Title {
+  font-size: 2.7rem;
+  padding: 5px 0;
   margin: 0;
 }
 
@@ -28,10 +31,12 @@
 }
 
 .PostCard--Category {
-  font-size: 1rem;
+  font-size: 1.2rem;
+  color: var(--darkGrey);
+  opacity: .5;
+  font-weight: 800;
   text-transform: uppercase;
   letter-spacing: .1em;
-  opacity: .4;
   min-height: 1.2em;
   line-height: 1;
   margin: 0.5em 0;

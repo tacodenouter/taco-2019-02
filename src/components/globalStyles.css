@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Lexend+Mega&display=swap');
-
 @font-face {font-family: 'Fabrikat-Regular';src: url('../assets/fonts/315D63_0_0.eot');src: url('../assets/fonts/315D63_0_0.eot?#iefix') format('embedded-opentype'),url('../assets/fonts/315D63_0_0.woff2') format('woff2'),url('../assets/fonts/315D63_0_0.woff') format('woff'),url('../assets/fonts/315D63_0_0.ttf') format('truetype');}
 
 @font-face {font-family: 'Gopher-Medium';src: url('../assets/fonts/39F4B2_0_0.eot');src: url('../assets/fonts/39F4B2_0_0.eot?#iefix') format('embedded-opentype'),url('../assets/fonts/39F4B2_0_0.woff2') format('woff2'),url('../assets/fonts/39F4B2_0_0.woff') format('woff'),url('../assets/fonts/39F4B2_0_0.ttf') format('truetype');}
@@ -15,13 +13,12 @@
   --primary: #2b00ff;
   --secondary: #000;
   --white: #fff;
-  --lightGrey: #f7f7f7;
+  --pageBG: #fff1d4;
   --midGrey: #b7b7ca;
-  --darkGrey: #272727;
+  --darkGrey: #222;
+  --popColour: #4676ff;
   --danger: #ff3d3d;
-  --font-primary: 'Fabrikat-Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  --font-system: 'Fabrikat-Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  --font-fabrikat: 'Fabrikat-Regular', sans-serif;
+  --font-primary: 'Fabrikat-Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
   --font-header: 'Lexend Mega', sans-serif;
   --font-header-2: 'Gopher-Medium', sans-serif;
   --font-page-header: 'NeumaticCompressed-Bold', sans-serif;
@@ -50,11 +47,11 @@ html {
   box-sizing: border-box;
   font-size: 62.5%;
   min-height: 100%;
-  background: var(--lightGrey);
+  background: var(--pageBG);
 }
 
 body {
-  font-family: var(--font-system);
+  font-family: var(--font-primary);
   min-height: 100%;
   position: relative;
   color: var(--secondary);
@@ -89,13 +86,13 @@ h1 {
 }
 
 h2 {
-  margin: 1em 0 0.5em 0;
+  margin: 0 0 0.5em 0;
   font-family: var(--font-quote);
   font-size: 3em;
   font-weight: normal;
   line-height: 1.2em;
   margin: 13rem 0 5rem 0;
-  border-bottom: 1px solid var(--midGrey);
+  border-bottom: 1px solid rgba(0,0,0,.1);
   padding-bottom: 3rem;
 }
 
@@ -110,7 +107,7 @@ h6 {
 }
 
 pre {
-  background: var(--lightGrey);
+  background: var(--pageBG);
   line-height: 1.45;
   font-size: 85%;
   border-radius: 3px;
@@ -120,7 +117,7 @@ pre {
 code {
   font-size: 85%;
   padding: 0.15em 0;
-  background: var(--lightGrey);
+  background: var(--pageBG);
   border-radius: 3px;
 }
 code:before,
@@ -146,7 +143,7 @@ blockquote {
 
 /* Utility Classes */
 .light {
-  background-color: var(--lightGrey);
+  background-color: var(--pageBG);
 }
 .white {
   background-color: white;
@@ -194,9 +191,9 @@ blockquote {
 
 .section {
   width: 100%;
-  padding: 5rem 0;
+  padding: 2rem 0 5rem 0;
   border-bottom: 1px solid #f1f1f1;
-  background: var(--lightGrey)
+  background: var(--pageBG)
 }
 .section:last-child {
   border: 0;

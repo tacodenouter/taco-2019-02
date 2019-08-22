@@ -125,7 +125,7 @@
 }
 
 .Form--Alert {
-  background: var(--lightGrey);
+  background: var(--pageBG);
   width: 100%;
   text-align: center;
   padding: 2rem;

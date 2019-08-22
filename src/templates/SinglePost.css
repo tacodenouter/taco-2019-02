@@ -1,9 +1,5 @@
 .SinglePost {
-  background: var(--midGrey);
-}
-
-.SinglePost p {
-  margin-right: 20%;
+  background: var(--pageBG);
 }
 
 .SinglePost--BackButton {
@@ -29,7 +25,7 @@
 }
 
 .SinglePost--Content {
-  background: var(--midGrey);
+  background: var(--pageBG);
   padding: 0 8rem;
 }
 
@@ -46,7 +42,7 @@
 }
 
 .SinglePost--Meta {
-  font-family: var(--font-fabrikat);
+  font-family: var(--font-primary);
   font-size: 1.4rem;
   font-weight: 800;
   text-transform: uppercase;
@@ -86,14 +82,14 @@
   letter-spacing: var(--letter-spacing);
   font-weight: 600;
   text-decoration: none;
-  background: var(--lightGrey);
+  background: var(--pageBG);
   padding: 8px 20px 6px 20px;
   border-radius: var(--borderRadius);
   transition: all 0.2s ease;
 }
 
 .SinglePost--Pagination--Link:hover {
-  background: var(--primary);
+  background: var(--pageBG);
   color: var(--lightGrey);
 }
 
