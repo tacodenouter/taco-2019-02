@@ -94,7 +94,7 @@ h2 {
   font-weight: normal;
   line-height: 1.2em;
   margin: 13rem 0 5rem 0;
-  border-bottom: 1px solid var(--darkGrey);
+  border-bottom: 1px solid var(--midGrey);
   padding-bottom: 3rem;
 }
 
