@@ -4,8 +4,12 @@ slug: CV
 title: CV
 featuredImage: 'https://ucarecdn.com/78e3214a-0e5e-41ae-9e51-b456c6c469d6/'
 meta:
-  description: test meta description
-  title: test meta title
+  description: >-
+    Hi Mum! Said Dad, Fitch, Chengbao, Kindeo, Ebsta, Mr Porter, Dave's Lab and
+    more
+  title: >-
+    Hi Mum! Said Dad, Fitch, Chengbao, Kindeo, Ebsta, Mr Porter, Dave's Lab and
+    more
 ---
 ## Chengbao
 With Chengbao I'm working with the industry's finest digital designers to create a global platform of ground-breaking software.
