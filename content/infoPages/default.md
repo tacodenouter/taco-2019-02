@@ -11,20 +11,11 @@ meta:
     Bordrin, SpeechKit, Kindeo, Dash, #PAY, Dave's Lab, BBC Good Food, National
     Trust
 ---
-I've been designing digital products for a bunch of startups, medium-sized companies and much larger enterprises.
+I've been designing digital products for startups to large enterprises for over 10 years in both London and Hong Kong.
 
-[Bordrin](https://www.bordrin.com)
+While my core focus has always been visual design, branding and user experience, along the way I've picked up valuable knowledge around CRO, SEO, marketing and copywriting.
 
-[SpeechKit](https://speechkit.io/)
+Keeping your business' goals front and centre is crucial to the success of the product.
 
-[Kindeo](https://www.kindeo.com/)
 
-Dash Audio
 
-#Pay
-
-[BBC Good Food](https://www.bbcgoodfood.com/howto/guide/how-use-bbc-good-food-alexa-skill)
-
-[National Trust](https://www.nationaltrust.org.uk/)
-
-[Mr Porter](https://www.mrporter.com)
