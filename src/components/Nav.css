@@ -1,6 +1,6 @@
 .Nav {
   font-family: var(--font-fabrikat);
-  background: var(--lightGrey);
+  background: var(--white);
   position: sticky;
   top: 0;
   z-index: 1;
