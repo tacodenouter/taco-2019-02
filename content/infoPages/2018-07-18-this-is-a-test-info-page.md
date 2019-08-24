@@ -12,6 +12,7 @@ meta:
     more
 ---
 ## Chengbao
+### 2019
 With Chengbao I'm working with the industry's finest digital designers to create a global platform of ground-breaking software.
 
 
