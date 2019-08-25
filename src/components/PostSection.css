@@ -11,16 +11,24 @@
 .PostSection button {
   margin-top: 1rem;
   margin-top: 5rem;
-  background: white;
-  border: 2px solid black;
-  padding: 1rem 2rem;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: var(--letter-spacing);
+  font-weight: bold;
+  font-size: 1.3rem;
+  border-radius: var(--borderRadius);
+  background: var(--pageBG);
+  border: 2px solid var(--primary);
+  padding: 1rem 2rem .8rem 2rem;
   cursor: pointer;
+  transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1.0);
 }
 
 .PostSection button:hover {
-  background: black;
-  border: 2px solid white;
+  background: var(--primary);
+  border: 2px solid var(--primary);
   color: white;
+  transform: translateY(-3px);
 }
 
 .PostSection--Grid > * {
@@ -48,19 +56,34 @@
   line-height: 1.2;
 }
 
-@media screen and (max-width: 888px) {
+@media screen and (max-width: 960px) {
   .PostSection--Grid > * {
-    width: 100%;
-    max-width: 50rem;
-    margin: 0 auto 4rem;
-    display: block;
+    width: auto;
+    margin-bottom: 2rem;
   }
 
   @supports (display: grid) {
     .PostSection--Grid {
-      display: block;
-      grid-template-columns: 1;
-      grid-gap: 0;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 2rem;
     }
   }
+}
+
+  @media screen and (max-width: 760px) {
+    .PostSection--Grid > * {
+      width: 100%;
+      max-width: 50rem;
+      margin: 0 auto 4rem;
+      display: block;
+    }
+  
+    @supports (display: grid) {
+      .PostSection--Grid {
+        display: block;
+        grid-template-columns: 1;
+        grid-gap: 0;
+      }
+    }
 }

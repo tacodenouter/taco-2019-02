@@ -191,8 +191,7 @@ blockquote {
 
 .section {
   width: 100%;
-  padding: 2rem 0 5rem 0;
-  border-bottom: 1px solid #f1f1f1;
+  padding: 6rem 0 5rem 0;
   background: var(--pageBG)
 }
 .section:last-child {
