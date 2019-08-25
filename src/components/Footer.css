@@ -1,11 +1,24 @@
 .footer {
-  padding: 2rem 0;
-  background: var(--darkGrey);
+  padding: 8rem 22rem;
+  background-image: "../images/footer-bg.png";
+  background: var(--footerBG);
   font-size: 1.2rem;
-  color: rgba(255,255,255,.4)
+  color: var(__darkGrey);
+}
+
+.footer p {
+  font-size: 2rem;
 }
 
 .footer a {
-  color: white;
+  color: var(__primary);
   text-decoration: none;
+}
+
+
+@media (max-width: 600px) {
+  .footer {
+    width: 100%;
+    padding: 5rem 0;
+  }
 }
