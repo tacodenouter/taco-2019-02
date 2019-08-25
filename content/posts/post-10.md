@@ -11,10 +11,10 @@ meta:
   description: Dash Audio
   title: Dash Audio
 ---
-![Dash Audio Dashboard](https://ucarecdn.com/fc3b28bd-6d81-48eb-883f-d0f678bd57ae/ "Dash Audio Dashboard")
-
 \##Introduction
 In 2016 I was fortunate enough to work on several products of the Dash suite of audio tools. I've always liked listening to podcasts so it was nice to work on tools to help the industry.
+
+![Dash Audio Dashboard](https://ucarecdn.com/fc3b28bd-6d81-48eb-883f-d0f678bd57ae/ "Dash Audio Dashboard")
 
 ## Dashboard
 
