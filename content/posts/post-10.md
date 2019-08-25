@@ -11,7 +11,22 @@ meta:
   description: Dash Audio
   title: Dash Audio
 ---
+###Introduction
+In 2016 I was fortunate enough to work on several products of the Dash suite of audio tools. I've always liked listening to podcasts so it was nice to work on tools to help the industry.
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.
+![Dash Audio Dashboard](https://ucarecdn.com/fc3b28bd-6d81-48eb-883f-d0f678bd57ae/ "Dash Audio Dashboard")
 
-This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+###Dashboard
+
+We designed a dashboard for podcasters and publishers in two colour schemes, showing the type of analytics offered. Users would be able to customise their view according to their needs and interested.
+
+###Design areas
+
+* Brand identity
+* Wireframe
+* Animation
+* Rapid, high fidelity prototyping
+* User interface design
+* iPhone app
+* Icon development
+* Illustration
