@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: blog
 title: Case Studies
-featuredImage: 'https://ucarecdn.com/46379773-002d-4992-8767-69ff36dde023/'
+featuredImage: 'https://ucarecdn.com/f3e48318-f1c3-4ca6-8991-3d944fb0bd63/'
 subtitle: Some projects I have worked on in the past few years.
 meta:
   description: Some work by Taco den Outer
