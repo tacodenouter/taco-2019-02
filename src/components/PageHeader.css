@@ -15,6 +15,7 @@
 .PageHeader--Title {
   font-size: 30rem;
   line-height: .8em;
+  text-align: center;
   margin-bottom: 0;
   font-family: var(--font-page-header);
   text-transform: uppercase;
