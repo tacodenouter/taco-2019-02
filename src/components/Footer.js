@@ -13,8 +13,7 @@ export default () => (
           </p>
         </span>
         <span>
-          © Copyright {new Date().getFullYear()}. All rights reserved. Crafted in React by{' '}
-          <a href="https://www.tacodenouter.com/">myself</a>, but I've relied on the excellent Gatsby starter by Australian digital company {' '} <a href="https://thriveweb.com.au">Thrive</a>.
+          © Copyright {new Date().getFullYear()}. All rights reserved. Crafted in React by myself, but I've relied on {' '} <a href="https://github.com/thriveweb/yellowcake" target="_blank">this excellent Gatsby starter</a>.
         </span>
       </div>
     </footer>

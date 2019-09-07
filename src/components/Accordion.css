@@ -32,6 +32,8 @@
   letter-spacing: 0.02rem;
   font-weight: bold;
   pointer-events: none;
+  border: none;
+  padding: 0;
 }
 
 .Accordion--item svg {
