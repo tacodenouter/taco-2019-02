@@ -7,10 +7,13 @@ featuredImage: >-
   https://ucarecdn.com/b89e588f-5659-47e9-9caa-6be0ad058572/-/crop/1690x1728/0,638/-/preview/
 excerpt: This is an excerpt of Post Two
 categories:
-  - category: Updates
+  - category: Web
+  - category: Branding
 meta:
-  description: test meta description
-  title: test meta title
+  description: >-
+    Office for Metropolitan Information is a Rotterdam-based tourist information
+    point in the Netherlands.
+  title: Office for Metropolitan Information
 ---
 
 This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.
