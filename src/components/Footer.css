@@ -3,7 +3,7 @@
   background-image: "../images/footer-bg.png";
   background: var(--footerBG);
   font-size: 1.2rem;
-  color: var(__darkGrey);
+  color: var(--footerText);
 }
 
 .footer p {
@@ -11,7 +11,7 @@
 }
 
 .footer a {
-  color: var(__primary);
+  color: #ea8cd6;
   text-decoration: none;
 }
 

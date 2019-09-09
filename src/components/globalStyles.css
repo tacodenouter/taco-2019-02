@@ -14,7 +14,9 @@
   --secondary: #000;
   --white: #fff;
   --pageBG: #fff1d4;
-  --footerBG: #f2e2be;
+  --pageBG-darker: #fff1d4;
+  --footerBG: #131009;
+  --footerText: #6965a9;
   --midGrey: #b7b7ca;
   --darkGrey: #222;
   --popColour: #4676ff;
@@ -93,9 +95,9 @@ h2 {
   font-weight: normal;
   line-height: 1.2em;
   margin: 3rem 0 5rem 0;
-  border-bottom: 1px solid rgba(0,0,0,.1);
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
 }
+
 
 h3,
 h4,

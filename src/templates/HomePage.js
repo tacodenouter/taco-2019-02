@@ -16,7 +16,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, introduction 
     />
 
     <section className="section">
-      <div className="container skinnier">
+      <div className="container skinny">
         <Content source={introduction} />
       </div>
     </section>
