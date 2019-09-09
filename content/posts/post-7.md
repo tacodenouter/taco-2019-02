@@ -8,6 +8,7 @@ excerpt: For Fitch Hong Kong I designed a beauty app targeted to Chinese teens.
 categories:
   - category: App
   - category: Web
+  - category: Prototype
 meta:
   canonicalLink: ''
   description: 'Augmented reality app for Olay, through Fitch Hong Kong'
