@@ -26,7 +26,7 @@
   --font-header-2: 'Gopher-Medium', sans-serif;
   --font-page-header: 'NeumaticCompressed-Bold', sans-serif;
   --font-quote: 'Recoleta-RegularDEMO', serif;
-  --borderRadius: 3px;
+  --borderRadius: 4px;
   --letter-spacing: .15em;
 }
 
@@ -240,10 +240,11 @@ blockquote {
 .Button {
   background: var(--primary);
   color: white;
+  opacity: 0.8;
   text-transform: uppercase;
   text-decoration: none;
-  font-weight: 700;
-  letter-spacing: 0.05em;
+  font-weight: 800;
+  letter-spacing: 0.1em;
   font-size: 1.4rem;
   display: inline-block;
   padding: 1.25rem 3rem;
@@ -254,7 +255,7 @@ blockquote {
 }
 .Button:hover,
 .Button:focus {
-  opacity: 0.95;
+  opacity: 1;
   outline: none;
 }
 .Button[disabled] {
