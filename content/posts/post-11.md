@@ -3,16 +3,20 @@ template: SinglePost
 title: Jukebox
 status: Published
 date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/a7f36998-7a41-4a63-b0b1-91ef46cd638b/'
+featuredImage: 'https://ucarecdn.com/1e2ee087-da46-4c9d-b291-7499b68aa99f/'
 excerpt: >-
   This is placeholder text that our web designers put here to make sure words
   appear properly on your website. This text is going to be replaced once the
   website is completed. You are currently reading text that is written in
   English, not any other language.
+categories:
+  - category: App
+  - category: Prototype
 meta:
   description: Jukebox podcast app
   title: Jukebox podcast app
 ---
+![](https://ucarecdn.com/33100d72-cbfc-492e-bc75-440be0acb6d6/)
 
 This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
 
