@@ -79,7 +79,7 @@ export const BlogIndexTemplate = ({
 
           {!!posts.length && (
             <section className="section">
-              <div className="container">
+              <div className="container skinny">
                 <PostSection posts={filteredPosts} />
               </div>
             </section>
