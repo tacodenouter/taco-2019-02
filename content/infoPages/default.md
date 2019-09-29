@@ -13,4 +13,6 @@ meta:
 ---
 I'm a digital design lead with experience leading teams in London and Hong Kong.
 
-We live in interesting times when it comes to design systems, tools and design thinking. Our industry is changing by the minute and I am glad to be working in such an exciting part of an industry.
+We live in interesting times when it comes to design; startups are devising design systems, design tools are getting [better](https://medium.com/sketch-app-sources/sketch-58-smart-layout-117616e6c241) and [better](https://www.framer.com/) and design thinking permeates all kinds of businesses. Our industry is changing by the minute and I am glad to be working at such an exciting time with [people who are at the forefront](https://chengbao.com.hk/).
+
+My background is in illustration and art
