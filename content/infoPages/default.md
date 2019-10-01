@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 slug: about
-title: Taco den Outer
+title: hello
 featuredImage: 'https://ucarecdn.com/f48c1586-3e3a-4af4-aef7-84adbc776b52/'
 meta:
   description: >-
@@ -11,11 +11,8 @@ meta:
     Bordrin, SpeechKit, Kindeo, Dash, #PAY, Dave's Lab, BBC Good Food, National
     Trust
 ---
-Hi there, thanks for looking up my personal space on the web. Since you asked, I've been designing digital products for startups and large enterprises in London, the Netherlands and Hong Kong for about 15 years now.
+I'm a digital design lead leading teams in London and Hong Kong.
 
-My core focus has always been visual design and user experience, but along the way I've picked up valuable knowledge around UX copy writing, CRO, SEO, marketing and some development.
+We live in interesting times when it comes to design; startups are devising design systems, design tools are getting [better](https://medium.com/sketch-app-sources/sketch-58-smart-layout-117616e6c241) and [better](https://www.framer.com/) and design thinking permeates all kinds of businesses. Our industry is changing by the minute and I am glad to be working at such an exciting time with [people who are at the forefront](https://chengbao.com.hk/).
 
-I love creating high fidelity prototypes and getting to results fast. Imho, this is the best way to test and launch a successful product.
-
-
-
+I studied [illustration](https://dribbble.com/tkdo) at Willem de Kooning Academy in Rotterdam, the Netherlands. During my studies I spent some time in Los Angeles and soon after graduating I moved to London. I learned design and branding from the best in the business, but
