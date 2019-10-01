@@ -13,20 +13,20 @@
 }
 
 .PageHeader--Title {
-  font-size: 30rem;
+  font-size: 20rem;
   line-height: .8em;
-  text-align: center;
+  text-align: left;
   margin-bottom: 0;
   font-family: var(--font-page-header);
   text-transform: uppercase;
   font-weight: normal;
-  padding: 0;
+  padding: 0 20rem 0 0;
 }
 
 .PageHeader--Subtitle {
   font-weight: 400;
-  text-align: center;
-  font-size: 2.3rem;
+  text-align: left;
+  font-size: 2rem;
 }
 
 .PageHeader .container {
@@ -39,6 +39,7 @@
   }
   .PageHeader--Title {
     font-size: 12rem;
+    padding: 0;
   }
 
   .PageHeader-large {

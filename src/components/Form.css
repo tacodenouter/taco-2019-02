@@ -72,8 +72,8 @@
 .Form--InputText:invalid:not(:empty) + span,
 .Form--InputText:active + span,
 .Form--InputText:focus + span {
-  top: 0;
-  left: 0.5rem;
+  top: 0.3rem;
+  left: 1rem;
   font-size: 1.2rem;
 }
 
