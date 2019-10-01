@@ -20,6 +20,6 @@ Just like you, I'm lucky to live in these exciting times when it comes to digita
 
 ### Background
 
-I studied [illustration](https://dribbble.com/tkdo) at Willem de Kooning Academy in Rotterdam, the Netherlands. I spent some time in Los Angeles, USA where I studied fine art. Soon after graduating I moved to London, UK where I learned design and branding from some the best in the business. I started working for a number of tech startups in the first half of the 2010s and two years ago I moved to Hong Kong.
+I studied illustration at Willem de Kooning Academy in Rotterdam, the Netherlands. I spent some time in Los Angeles, USA where I studied fine art. Soon after graduating I moved to London, UK where I learned design and branding from some the best in the business. I started working for a number of tech startups in the first half of the 2010s and two years ago I moved to Hong Kong.
 
 I am a digital product designer first, a design lead second and maybe an illustrator third.
