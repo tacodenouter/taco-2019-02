@@ -1,18 +1,24 @@
 ---
 template: DefaultPage
 slug: about
-title: hello
+title: Interesting times
 featuredImage: 'https://ucarecdn.com/f48c1586-3e3a-4af4-aef7-84adbc776b52/'
 meta:
   description: >-
-    I've designed digital products for Bordrin, SpeechKit, Kindeo, Dash, #PAY,
-    Dave's Lab, BBC Good Food, National Trust
-  title: >-
-    Bordrin, SpeechKit, Kindeo, Dash, #PAY, Dave's Lab, BBC Good Food, National
-    Trust
+    I'm Taco den Outer; digital product designer. I've designed digital products
+    for Fitch, Hi Mum! Said Dad, BBC Good Food, Bordrin, SpeechKit, Kindeo, Dash
+    Audio, Mr Porter, #PAY, Dave's Lab and National Trust. I am a digital
+    product designer first, a design lead second and maybe an illustrator third.
+  title: Digital Product Designer
 ---
-I'm a digital design lead leading teams in London and Hong Kong.
+### Hello!
 
-We live in interesting times when it comes to design; startups are devising design systems, design tools are getting [better](https://medium.com/sketch-app-sources/sketch-58-smart-layout-117616e6c241) and [better](https://www.framer.com/) and design thinking permeates all kinds of businesses. Our industry is changing by the minute and I am glad to be working at such an exciting time with [people who are at the forefront](https://chengbao.com.hk/).
+I'm a digital design lead with experience leading teams in London and Hong Kong.
 
-I studied [illustration](https://dribbble.com/tkdo) at Willem de Kooning Academy in Rotterdam, the Netherlands. During my studies I spent some time in Los Angeles and soon after graduating I moved to London. I learned design and branding from the best in the business, but
+Just like you, I'm lucky to live in these exciting times when it comes to digital design. Startups are devising design systems, design tools are getting better and better and design thinking permeates all kinds of businesses. Our digital lives in general are changing by the minute and I am glad to be working with [people who are at the forefront](https://chengbao.com.hk/).
+
+### Background
+
+I studied illustration at Willem de Kooning Academy in Rotterdam, the Netherlands. I spent some time in Los Angeles, USA where I studied fine art. Soon after graduating I moved to London, UK where I learned design and branding from some the best in the business. I started working for a number of tech startups in the first half of the 2010s and two years ago I moved to Hong Kong.
+
+I am a digital product designer first, a design lead second and maybe an illustrator third.
