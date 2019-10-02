@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: Purposeful prototyping
+title: Digital Product Design
 featuredImage: 'https://ucarecdn.com/1603a0e4-be05-4936-8954-99d86ee89291/'
 subtitle: >-
   Build greater connections with your users through thoughtful design and
