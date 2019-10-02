@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: about
 title: Rotterdam Los Angeles London Hong Kong
-featuredImage: 'https://ucarecdn.com/f48c1586-3e3a-4af4-aef7-84adbc776b52/'
+featuredImage: 'https://ucarecdn.com/761a3d32-9959-4cd0-8377-aa39a581573c/'
 meta:
   description: >-
     I'm Taco den Outer; digital product designer. I've designed digital products
