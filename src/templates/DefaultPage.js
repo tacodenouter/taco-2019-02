@@ -21,7 +21,7 @@ export const DefaultPageTemplate = ({
     />
 
     <section className="section">
-      <div className="container skinny">
+      <div className="container skinnier">
         <Content source={body} />
       </div>
     </section>
