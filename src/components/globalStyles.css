@@ -18,7 +18,7 @@
   --footerBG: #131009;
   --footerText: #6965a9;
   --midGrey: #b7b7ca;
-  --darkGrey: #222;
+  --darkGrey: #444;
   --popColour: #4676ff;
   --danger: #ff3d3d;
   --font-primary: 'Fabrikat-Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
@@ -58,7 +58,7 @@ body {
   min-height: 100%;
   position: relative;
   color: var(--secondary);
-  font-size: 1.9em;
+  font-size: 1.8em;
   font-weight: 400;
   letter-spacing: 0.01em;
   line-height: 1.6;
@@ -78,6 +78,8 @@ strong {
 p {
   margin-top: 0;
   margin-bottom: 1em;
+  font-size: 1.2em;
+  color: var(--darkGrey);
 }
 
 h1 {
@@ -94,7 +96,7 @@ h2 {
   font-size: 3em;
   font-weight: normal;
   line-height: 1.2em;
-  margin: 3rem 0 5rem 0;
+  margin: 3rem 0 0 0;
   padding-bottom: 2rem;
 }
 
@@ -194,7 +196,7 @@ blockquote {
 
 .section {
   width: 100%;
-  padding: 6rem 0 5rem 0;
+  padding: 3rem 0 5rem 0;
   background: var(--pageBG)
 }
 .section:last-child {
@@ -248,6 +250,7 @@ blockquote {
   font-size: 1.4rem;
   display: inline-block;
   padding: 1.25rem 3rem;
+  margin-top: 2rem;
   border: none;
   transition: all 0.2s ease;
   cursor: pointer;
