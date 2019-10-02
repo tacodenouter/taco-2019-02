@@ -195,7 +195,7 @@ blockquote {
 
 .section {
   width: 100%;
-  padding: 3rem 0 5rem 0;
+  padding: 8rem 0;
   background: var(--pageBG)
 }
 .section:last-child {
@@ -233,8 +233,15 @@ blockquote {
   max-width: 888px;
 }
 .container.skinnier {
-  max-width: 555px;
+  max-width: 50%;
   text-align: center;
+}
+
+@media (max-width: 600px) {
+  .container.skinnier {
+    max-width: 100%;
+    padding: 0 20px;
+  }
 }
 
 /* Buttons */

@@ -40,7 +40,6 @@ export const ContactPageTemplate = ({
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <MapPin /> {address}
               </a>
             )}
             {phone && (

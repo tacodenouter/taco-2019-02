@@ -8,6 +8,7 @@
 
 .footer p {
   font-size: 2rem;
+  color: var(--footerText);
 }
 
 .footer a {
