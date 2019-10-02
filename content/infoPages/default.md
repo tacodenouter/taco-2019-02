@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 slug: about
-title: Interesting times
+title: 'Rotterdam, Los Angeles, London & Hong Kong'
 featuredImage: 'https://ucarecdn.com/f48c1586-3e3a-4af4-aef7-84adbc776b52/'
 meta:
   description: >-
