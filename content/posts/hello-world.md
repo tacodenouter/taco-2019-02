@@ -11,6 +11,7 @@ excerpt: >
   branding.
 categories:
   - category: Web
+  - category: Branding
 meta:
   canonicalLink: ''
   description: Le Chameau is a premium French boot maker
@@ -19,12 +20,8 @@ meta:
 ---
 ### Craftsmanship & creativity
 
-Le Chameau makes boots for people who live and breathe the land. They’ve been hand making rubber boots since 1927 in the same factory in Normandy, France. With Dave’s Lab I designed their e-commerce site and worked on the company’s branding.
+Le Chameau makes boots for people who live and breathe the land. Since 1927 the company has made rubber boots in the same factory in Normandy, France. With Dave’s Lab I developed their brand, set up a design system and designed their e-commerce site.
 
 ### Savoir-faire
 
-Here’s a high level overview of Le Chameau’s e-commerce site covering in-depth pages of their product lines categorised per purpose, company history and philosophy.
-
-### Understated luxury
-
-Le Chameau’s boots have an understated luxury that it loved and revered by people living and aspiring to country life. So it only made sense to treat the website with the same attention to detail and love of life.
+Le Chameau’s boots have an understated luxury that it loved and revered by people living and aspiring to country life. So it only made sense to treat the website with the same attention to detail, craftsmanship and joie de vivre. During a factory visit we took hundreds of photos showing artisan bootmakers transforming raw materials into high-end boots.
