@@ -26,6 +26,10 @@
   margin: 0;
 }
 
+.PostCard--Excerpt {
+  font-size: 1.6rem;
+}
+
 .PostCard--Content {
   padding: 0 2.5rem 2.5rem;
 }

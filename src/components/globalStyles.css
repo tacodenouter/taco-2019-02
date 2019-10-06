@@ -229,8 +229,9 @@ blockquote {
   width: 90%;
   margin: 0 auto;
 }
+
 .container.skinny {
-  max-width: 888px;
+  max-width: 70%;
 }
 .container.skinnier {
   max-width: 50%;
