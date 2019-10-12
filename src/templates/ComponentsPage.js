@@ -37,6 +37,12 @@ export const ComponentsPageTemplate = ({
 
     <section className="section">
       <div className="container">
+        <Content source={body} />
+      </div>
+    </section>
+
+    <section className="section">
+      <div className="container">
         <h2>Gallery section</h2>
         <Gallery images={gallery} />
       </div>
