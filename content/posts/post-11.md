@@ -5,10 +5,10 @@ status: Published
 date: '2018-05-25'
 featuredImage: 'https://ucarecdn.com/1e2ee087-da46-4c9d-b291-7499b68aa99f/'
 excerpt: >-
-  This is placeholder text that our web designers put here to make sure words
-  appear properly on your website. This text is going to be replaced once the
-  website is completed. You are currently reading text that is written in
-  English, not any other language.
+  Jukebox was Dash Audio's own podcast player. The app was designed and build to
+  ultimately get better analytics, but we also took the opportunity to create
+  the best podcast app out there, with feature no other app has, like playlists
+  and clips.
 categories:
   - category: App
   - category: Prototype
