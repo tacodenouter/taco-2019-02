@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 slug: about
-title: Rotterdam Los Angeles London Hong Kong
+title: 'Purpose, Padding & Prototyping'
 featuredImage: 'https://ucarecdn.com/761a3d32-9959-4cd0-8377-aa39a581573c/'
 meta:
   description: >-
