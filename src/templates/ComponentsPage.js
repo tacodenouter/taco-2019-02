@@ -20,7 +20,6 @@ export const ComponentsPageTemplate = ({
   videoPoster,
   videoTitle,
   accordion,
-  body,
   gallery
 }) => (
   <main>
@@ -32,12 +31,6 @@ export const ComponentsPageTemplate = ({
     <section className="section">
       <div className="container">
         <Content source={section1} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <Content source={body} />
       </div>
     </section>
 
