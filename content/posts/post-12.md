@@ -11,6 +11,8 @@ meta:
   description: BBC Good Food Alexa Skill for Hi Mum! Said Dad
   title: BBC Good Food Alexa Skill
 ---
+![BBC Good Food Alexa Skill user flow](https://ucarecdn.com/e605315f-441c-4786-a6c2-52c4105cf898/ "BBC Good Food Alexa Skill user flow")
+
 ## No more salsa-stained, garlic-smelling recipe books
 
 At [Hi Mum! Said Dad](www.himumsaiddad.com) I had the daunting task to design the conversational UI of one of Britain's most loved recipe sources.
