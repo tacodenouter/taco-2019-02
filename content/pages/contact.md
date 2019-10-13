@@ -1,8 +1,8 @@
 ---
 template: ContactPage
 slug: contact
-title: Reach out
-featuredImage: 'https://ucarecdn.com/82b498be-81bc-458e-8f8b-3bd6c5591620/'
+title: Get in touch
+featuredImage: 'https://ucarecdn.com/f86431ef-541e-4182-84cb-93d89a3e8eb4/'
 subtitle: ...
 address: '404 James St, Burleigh Heads QLD 4220'
 phone: +852 5348 6036
@@ -15,7 +15,7 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
-# Let's talk...
+### Let's talk...
 
 ...if you have an interesting idea for a new service, want help connecting better with your customers or want to increase your users. 
 
