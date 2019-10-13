@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 slug: about
-title: Purpose Padding Prototypes
+title: Purpose. Padding. Prototypes.
 featuredImage: 'https://ucarecdn.com/761a3d32-9959-4cd0-8377-aa39a581573c/'
 meta:
   description: >-
